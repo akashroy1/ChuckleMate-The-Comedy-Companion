@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 10px;
+    height: 100px;
+    width: 250px;
+}
+
+body {
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+#jokeBody {
+    width: 80%;
+    height: 50%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
