@@ -1,4 +1,4 @@
-# Random-Joke-Chrome-Extension
+# ChuckleMate: The Comedy Companion
 
 A simple chrome extension that shows a random joke every time you click
 
